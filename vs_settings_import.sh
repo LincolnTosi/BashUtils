@@ -1,4 +1,4 @@
-# Lincoln Tosi
+# Lincoln Tosi 2/20/14
 # automatically copies Visual Assist and AStyle settings to Google Drive
 
 script_description="UPATE VISUAL STUDIO 2013 SETTINGS"
