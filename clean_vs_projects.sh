@@ -1,5 +1,5 @@
 # Lincoln Tosi 2/20/14
-# automatically removes debug/release folders and unwanted file types
+# automates removal of debug/release folders and unwanted file types
 
 script_description="CLEAN VISUAL STUDIO PROJECTS IN DIR"
 
