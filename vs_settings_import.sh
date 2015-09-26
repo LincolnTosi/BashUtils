@@ -1,5 +1,5 @@
 # Lincoln Tosi 2/20/14
-# automatically copies Visual Assist and AStyle settings to Google Drive
+# automates importation of Visual Assist and AStyle settings from Google Drive
 
 script_description="UPATE VISUAL STUDIO 2013 SETTINGS"
 GDDIR="D:\Google Drive\Settings\Visual Studio 2013"
