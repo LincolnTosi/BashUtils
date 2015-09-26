@@ -1,11 +1,12 @@
 # Lincoln Tosi 2/20/14
-# automatically removes debug/release folders and unwanted file types
-# automatically zips given submission dir
-# automatically attempts to extract and build the submission .zip in both debug and release
+# automates preparation of a project for submission as per DigiPen standards
+# removes debug/release folders and unwanted file types
+# zips given submission dir
+# attempts to extract and build the submission zip in both debug and release
 # requires cygwin zip
 # requires cygwin unzip or WinRAR
 # requires MSBuild.exe in system PATH (for VS2013 it should be C:\Program Files (x86)\MSBuild\12.0\Bin\amd64)
-# please read this script before attempting to use it
+# understanding of this script is recommended prior to use
 
 script_description="DIGIPEN PREMARE SUBMISSION"
 
