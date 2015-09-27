@@ -1,5 +1,5 @@
 # Lincoln Tosi 2/20/14
-# automatically syncs listed mercurial repositories
+# automates syncing multiple mercurial repositories
 
 script_description="UPATE REPOS"
 array=(
